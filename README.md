@@ -16,6 +16,9 @@
    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/PaolaGaray">	   
 </p>
 <hr>
+<h3>Codewards:</h3>
+<a href="https://www.codewars.com/users/PaolaGaray/badges/large"><img src="https://www.codewars.com/users/PaolaGaray/badges/large" /></a> 
+<hr>
 <h3>How to reach me:</h3>
 <a href="https://www.linkedin.com/in/angelagaray/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="mailto:garay.angela@gmail.com?subject=Hi%20there"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
