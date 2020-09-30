@@ -1,5 +1,5 @@
 <h1>Hi there 👋🏽</h1>
-<h2>🍦👩🏽‍💻  I'm a Front End Developer </h2>
+<h2>🍦👩🏽‍💻  I'm a Software Engineer </h2>
 <hr>
 <h3>Skills:</h3>
 <p>
