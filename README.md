@@ -1,6 +1,11 @@
 <h1>Hi there 👋🏽</h1>
 <h2>🍦👩🏽‍💻  I'm a Software Engineer </h2>
 <hr>
+<p>
+I am a Software Engineer, breaking out from technical product management. Recently, I got a certification in ReactJS and Redux and I completed a Full-Stack Bootcamp. Feel free to take a look at my latest projects here!
+
+Proficient in: React.js and Redux, Javascript | Typescript, ES6, HTML5 & CSS3, Node-js, MongoDB, Express.  
+</p>
 <h3>Skills:</h3>
 <p>
    <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
