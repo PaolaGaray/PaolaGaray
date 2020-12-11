@@ -4,7 +4,7 @@
 <p>
 I am a Frontend Engineer, breaking out from technical product management. Recently, I completed a Full-Stack Bootcamp in Ironhack-Berlin and I got a certification in Typescript. Feel free to take a look at my latest projects here!
 
-Proficient in: React.js, Nexts.js, Javascript | Typescript, ES6, HTML5 & CSS3, Node-js, MongoDB, Express.  
+Proficient in: Typescript | Javascript, Next.js, React.js, ES6, HTML5 & CSS3, Node-js, MongoDB, Express.  
 </p>
 <h3>Skills:</h3>
 <p>
