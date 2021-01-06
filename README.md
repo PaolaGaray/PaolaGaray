@@ -2,9 +2,9 @@
 <h2>🍦👩🏽‍💻  I'm a Software Engineer </h2>
 <hr>
 <p>
-I am a Frontend Engineer, breaking out from technical product management. Recently, I completed a Full-Stack Bootcamp in Ironhack-Berlin and I got a certification in Typescript. Feel free to take a look at my latest projects here!
+I am a Fullstack Engineer, breaking out from technical product management. Recently, I completed a Full-Stack Bootcamp in Ironhack-Berlin, feel free to take a look at my latest projects here!
 
-Proficient in: Typescript | Javascript, Next.js, React.js, ES6, HTML5 & CSS3, Node-js, MongoDB, Express.  
+Proficient in: Typescript | Javascript, ES6, React.js, Next.js, GraphQL, Node-js, MongoDB, Express.  
 </p>
 <h3>Skills:</h3>
 <p>
