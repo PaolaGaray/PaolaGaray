@@ -4,7 +4,7 @@
 <p>
 I am a Fullstack Engineer, breaking out from technical product management. Recently, I completed a Full-Stack Bootcamp in Ironhack-Berlin, feel free to take a look at my latest projects here!
 
-Proficient in: Typescript | Javascript, ES6, React.js, Next.js, GraphQL, Node-js, MongoDB, Express.  
+Proficient in: Typescript | Javascript, ES6, React.js, Next.js, GraphQL, Node-js, MongoDB, PostgreSQL, Express.  
 </p>
 <h3>Skills:</h3>
 <p>
