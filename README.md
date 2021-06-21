@@ -2,7 +2,7 @@
 <h2>🍦👩🏽‍💻  I'm a Software Engineer </h2>
 <hr>
 <p>
-I am a Fullstack Engineer, breaking out from technical product management. Recently, I completed a Full-Stack Bootcamp in Ironhack-Berlin, feel free to take a look at my latest projects here!
+I am a Technical Product Manager obsessed with delivering exceptional user experiences through web and mobile apps. Recently, I completed a Full-Stack Bootcamp in Ironhack-Berlin, feel free to take a look at my latest projects here!
 
 Proficient in: Typescript | Javascript, ES6, ES7, React.js, Next.js, GraphQL, Node-js, MongoDB, PostgreSQL, Express.  
 </p>
