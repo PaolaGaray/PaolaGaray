@@ -1,5 +1,5 @@
 <h1>Hi there 👋🏽</h1>
-<h2>🍦👩🏽‍💻  I'm a Software Engineer </h2>
+<h2>🍦👩🏽‍💻  Technical Product Manager </h2>
 <hr>
 <p>
 I am a Technical Product Manager obsessed with delivering exceptional user experiences through web and mobile apps. Recently, I completed a Full-Stack Bootcamp in Ironhack-Berlin, feel free to take a look at my latest projects here!
