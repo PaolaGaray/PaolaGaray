@@ -19,6 +19,21 @@ Tech skills: Python, SQL, Javascript
     <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt="Python Badge">
    </a>
    <br>
+   <a href="https://github.com/PaolaGaray">
+    <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas" alt="Pandas Badge">
+   </a>
+   <a href="https://github.com/PaolaGaray">
+    <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn" alt="Scikit-Learn Badge">
+   </a>
+   <a href="https://github.com/PaolaGaray">
+    <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql" alt="PostgreSQL Badge">
+   </a>
+   <a href="https://github.com/PaolaGaray">
+    <img src="https://img.shields.io/badge/-BigQuery-4285F4?style=flat-square&logo=google-cloud" alt="BigQuery Badge">
+   </a>
+   <a href="https://github.com/PaolaGaray">
+    <img src="https://img.shields.io/badge/-Tableau-e97627?style=flat-square&logo=tableau" alt="Tableau Badge">
+   </a>
    <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;	   
    <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;	   
    <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;	   
