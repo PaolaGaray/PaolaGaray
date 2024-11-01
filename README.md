@@ -15,7 +15,9 @@ Tech skills: Python, SQL, Javascript
 </p>
 <h3>Skills:</h3>
 <p>
-   <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=phyton&link=https://github.com/PaolaGaray)">	
+   <a href="https://github.com/PaolaGaray">
+    <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt="Python Badge">
+   </a>
    <br>
    <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;	   
    <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;	   
