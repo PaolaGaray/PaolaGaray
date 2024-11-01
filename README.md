@@ -20,14 +20,14 @@ Tech skills: Python, SQL, Javascript
     <a href="https://github.com/PaolaGaray">
         <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt="Python Badge">
     </a>
+   <a href="https://github.com/PaolaGaray">
+        <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy" alt="NumPy Badge">
+    </a>
     <a href="https://github.com/PaolaGaray">
         <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas" alt="Pandas Badge">
     </a>
     <a href="https://github.com/PaolaGaray">
         <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn" alt="Scikit-Learn Badge">
-    </a>
-    <a href="https://github.com/PaolaGaray">
-        <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy" alt="NumPy Badge">
     </a>
 </p>
 
