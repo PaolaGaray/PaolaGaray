@@ -1,5 +1,5 @@
 <h1>Hi there 👋🏽</h1>
-<h2>🍦👩🏽‍💻  Senior Product Analyst | Senior Data Analyst </h2>
+<h2>🍦👩🏽‍💻  Senior Product Analyst | Data Analyst </h2>
 <hr>
 <p>
 I'm an experienced Product Manager and hands-on Data Analyst, currently working as a Freelance Product Analyst/Data Analyst. Skilled in independently creating dashboards, reports, and analyses for rapid decision-making. 
@@ -15,6 +15,7 @@ Tech skills: Python, SQL, Javascript
 </p>
 <h3>Skills:</h3>
 <p>
+   <p>
    <a href="https://github.com/PaolaGaray">
     <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt="Python Badge">
    </a>
@@ -42,6 +43,7 @@ Tech skills: Python, SQL, Javascript
    <br>
    <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/PaolaGaray">	   
    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/PaolaGaray">	   
+</p>	   
 </p>
 <hr>
 <h3>Codewards:</h3>
