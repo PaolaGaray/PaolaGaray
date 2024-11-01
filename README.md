@@ -15,35 +15,62 @@ Tech skills: Python, SQL, Javascript
 </p>
 <h3>Skills:</h3>
 <p>
-   <p>
-   <a href="https://github.com/PaolaGaray">
-    <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt="Python Badge">
-   </a>
-   <br>
-   <a href="https://github.com/PaolaGaray">
-    <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas" alt="Pandas Badge">
-   </a>
-   <a href="https://github.com/PaolaGaray">
-    <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn" alt="Scikit-Learn Badge">
-   </a>
-   <a href="https://github.com/PaolaGaray">
-    <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql" alt="PostgreSQL Badge">
-   </a>
-   <a href="https://github.com/PaolaGaray">
-    <img src="https://img.shields.io/badge/-BigQuery-4285F4?style=flat-square&logo=google-cloud" alt="BigQuery Badge">
-   </a>
-   <a href="https://github.com/PaolaGaray">
-    <img src="https://img.shields.io/badge/-Tableau-e97627?style=flat-square&logo=tableau" alt="Tableau Badge">
-   </a>
-   <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;	   
-   <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;	   
-   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;	   
-   <br>	
-   <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;	     
-   <br>
-   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/PaolaGaray">	   
-   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/PaolaGaray">	   
-</p>	   
+   <!-- Line 1: Python, Pandas, Scikit-Learn -->
+<p>
+    <a href="https://github.com/PaolaGaray">
+        <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt="Python Badge">
+    </a>
+    <a href="https://github.com/PaolaGaray">
+        <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas" alt="Pandas Badge">
+    </a>
+    <a href="https://github.com/PaolaGaray">
+        <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn" alt="Scikit-Learn Badge">
+    </a>
+</p>
+
+<!-- Line 2: Tableau, BigQuery -->
+<p>
+    <a href="https://github.com/PaolaGaray">
+        <img src="https://img.shields.io/badge/-Tableau-e97627?style=flat-square&logo=tableau" alt="Tableau Badge">
+    </a>
+    <a href="https://github.com/PaolaGaray">
+        <img src="https://img.shields.io/badge/-BigQuery-4285F4?style=flat-square&logo=google-cloud" alt="BigQuery Badge">
+    </a>
+</p>
+
+<!-- Line 3: SQL, PostgreSQL -->
+<p>
+    <a href="https://github.com/PaolaGaray">
+        <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=amazon-dynamodb" alt="SQL Badge">
+    </a>
+    <a href="https://github.com/PaolaGaray">
+        <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql" alt="PostgreSQL Badge">
+    </a>
+</p>
+
+<!-- Line 4: JavaScript, HTML5, CSS3 -->
+<p>
+    <a href="https://github.com/PaolaGaray">
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript" alt="JavaScript Badge">
+    </a>
+    <a href="https://github.com/PaolaGaray">
+        <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5" alt="HTML5 Badge">
+    </a>
+    <a href="https://github.com/PaolaGaray">
+        <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" alt="CSS3 Badge">
+    </a>
+</p>
+
+<!-- Line 5: Git, GitHub -->
+<p>
+    <a href="https://github.com/PaolaGaray">
+        <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git" alt="Git Badge">
+    </a>
+    <a href="https://github.com/PaolaGaray">
+        <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub Badge">
+    </a>
+</p>
+
 </p>
 <hr>
 <h3>Codewards:</h3>
