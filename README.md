@@ -11,7 +11,6 @@ I recently completed a Data Analytics Bootcamp at Ironhack Berlin.
 
 Feel free to take a look at my latest projects here!
 
-Tech skills: Python, SQL, Javascript  
 </p>
 <h3>Skills:</h3>
 <p>
