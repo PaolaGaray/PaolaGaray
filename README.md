@@ -2,15 +2,15 @@
 <h2>🍦👩🏽‍💻  Senior Product Analyst | Data Analyst </h2>
 <hr>
 <p>
-I'm an experienced Product Manager and hands-on Data Analyst, currently working as a Freelance Product Analyst/Data Analyst. Skilled in independently creating dashboards, reports, and analyses for rapid decision-making. 
+Experienced Product Manager and hands-on Data Analyst currently working as a Freelance Product Analyst/Data Analyst.
    
 Proficient in reformulating problem statements, cleaning and transforming data, identifying relationships, defining success metrics, and achieving stakeholder agreement. Expertise in AI-powered tools to enhance product discovery and optimize conversion rates.  Strong experience with Python, SQL, Tableau, BigQuery, experiment analysis, GMV, and ROI calculations.
 
+Proficient in reformulating problem statements, cleaning and transforming data, identifying relationships, defining success metrics, and achieving stakeholder agreement. Expertise in AI-powered tools to enhance product discovery and optimize conversion rates.  
+
 My combined experience as a Product Manager and Business Analyst offers companies strategic leadership, vision and practical analytical skills, for high-impact results.
-I recently completed a Data Analytics Bootcamp at Ironhack Berlin. 
 
-Feel free to take a look at my latest projects here!
-
+I recently completed a Data Analytics Bootcamp at Ironhack Berlin. Feel free to take a look at my latest projects here!
 </p>
 <h3>Skills:</h3>
 <p>
