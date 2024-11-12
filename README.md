@@ -2,7 +2,7 @@
 <h2>🍦👩🏽‍💻  Product Leader | Senior Data Analyst </h2>
 <hr>
 <p>
-Experienced Product Manager and hands-on Data Analyst. Proficient in reformulating problem statements, cleaning and transforming data, identifying relationships, defining success metrics, and achieving stakeholder agreement. Expertise in AI-powered tools to enhance product discovery and optimize conversion rates.  Strong experience with Python, SQL, Tableau, BigQuery, experiment analysis, GMV, and ROI calculations.
+Experienced Product Manager and hands-on Data Analyst. Proficient in reformulating problem statements, cleaning and transforming data, identifying relationships, defining success metrics, and achieving stakeholder agreement. Strong experience with Python, SQL, Tableau, BigQuery, experiment analysis, GMV, and ROI calculations.
 I recently completed a Data Analytics Bootcamp at Ironhack Berlin. Feel free to take a look at my latest projects here!
 </p>
 <h3>Skills:</h3>
@@ -21,16 +21,8 @@ I recently completed a Data Analytics Bootcamp at Ironhack Berlin. Feel free to 
     <a href="https://github.com/PaolaGaray">
         <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn" alt="Scikit-Learn Badge">
     </a>
-</p>
-
-
-<!-- Line 2: Tableau, BigQuery -->
-<p>
     <a href="https://github.com/PaolaGaray">
         <img src="https://img.shields.io/badge/-Tableau-e97627?style=flat-square&logo=tableau" alt="Tableau Badge">
-    </a>
-    <a href="https://github.com/PaolaGaray">
-        <img src="https://img.shields.io/badge/-BigQuery-4285F4?style=flat-square&logo=google-cloud" alt="BigQuery Badge">
     </a>
 </p>
 
