@@ -2,7 +2,7 @@
 <h2>🍦👩🏽‍💻  Product Leader | Data Analyst </h2>
 <hr>
 <p>
-Experienced Product Manager and hands-on Data Analyst. Proficient in reformulating problem statements, cleaning and transforming data, identifying relationships, defining success metrics, and achieving stakeholder agreement. 
+Experienced Product Manager and hands-on Data Analyst, proficient in reformulating problem statements, cleaning and transforming data, identifying relationships, defining success metrics, and achieving stakeholder agreement. 
 I recently completed a Data Analytics Bootcamp at Ironhack Berlin. Check out my latest projects here!
 </p>
 <h3>Skills:</h3>
