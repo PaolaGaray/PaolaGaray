@@ -24,33 +24,12 @@ I recently completed a Data Analytics Bootcamp at Ironhack Berlin. Feel free to 
     <a href="https://github.com/PaolaGaray">
         <img src="https://img.shields.io/badge/-Tableau-e97627?style=flat-square&logo=tableau" alt="Tableau Badge">
     </a>
-</p>
-
-<!-- Line 3: SQL, PostgreSQL -->
-<p>
     <a href="https://github.com/PaolaGaray">
         <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=amazon-dynamodb" alt="SQL Badge">
     </a>
     <a href="https://github.com/PaolaGaray">
         <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql" alt="PostgreSQL Badge">
     </a>
-</p>
-
-<!-- Line 4: JavaScript, HTML5, CSS3 -->
-<p>
-    <a href="https://github.com/PaolaGaray">
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript" alt="JavaScript Badge">
-    </a>
-    <a href="https://github.com/PaolaGaray">
-        <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5" alt="HTML5 Badge">
-    </a>
-    <a href="https://github.com/PaolaGaray">
-        <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" alt="CSS3 Badge">
-    </a>
-</p>
-
-<!-- Line 5: Git, GitHub -->
-<p>
     <a href="https://github.com/PaolaGaray">
         <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git" alt="Git Badge">
     </a>
@@ -59,7 +38,6 @@ I recently completed a Data Analytics Bootcamp at Ironhack Berlin. Feel free to 
     </a>
 </p>
 
-</p>
 <hr>
 <h3>Codewards:</h3>
 <a href="https://www.codewars.com/users/PaolaGaray/badges/large"><img src="https://www.codewars.com/users/PaolaGaray/badges/large" /></a> 
