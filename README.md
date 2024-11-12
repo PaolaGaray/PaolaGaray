@@ -2,7 +2,7 @@
 <h2>🍦👩🏽‍💻  Product Leader | Senior Data Analyst </h2>
 <hr>
 <p>
-Experienced Product Manager and hands-on Data Analyst. Proficient in reformulating problem statements, cleaning and transforming data, identifying relationships, defining success metrics, and achieving stakeholder agreement. Strong experience with Python, SQL, Tableau, BigQuery, experiment analysis, GMV, and ROI calculations.
+Experienced Product Manager and hands-on Data Analyst. Proficient in reformulating problem statements, cleaning and transforming data, identifying relationships, defining success metrics, and achieving stakeholder agreement. 
 I recently completed a Data Analytics Bootcamp at Ironhack Berlin. Feel free to take a look at my latest projects here!
 </p>
 <h3>Skills:</h3>
