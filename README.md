@@ -41,8 +41,3 @@ I recently completed a Data Analytics Bootcamp at Ironhack Berlin. Feel free to 
 <hr>
 <h3>Codewards:</h3>
 <a href="https://www.codewars.com/users/PaolaGaray/badges/large"><img src="https://www.codewars.com/users/PaolaGaray/badges/large" /></a> 
-<hr>
-<h3>How to reach me:</h3>
-<a href="https://www.linkedin.com/in/angelagaray/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="mailto:garay.angela@gmail.com?subject=Hi%20there"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<hr>
