@@ -1,5 +1,5 @@
 <h1>Hi there 👋🏽</h1>
-<h2>🍦👩🏽‍💻  Product Leader | Data Analyst </h2>
+<h2>🍦👩🏽‍💻  Data Analyst | Product Leader </h2>
 <hr>
 <p>
 Product Analyst, proficient in reformulating problem statements, cleaning and transforming data, identifying relationships, defining success metrics, and achieving stakeholder agreement. Check out my latest projects here!
