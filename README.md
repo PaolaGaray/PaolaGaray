@@ -1,5 +1,5 @@
 <!-- Line 1: Python, Pandas, Scikit-Learn, NumPy -->
-<h2>Skills:</h2>
+<h4>Skills:</h4>
 <p>
     <a href="https://github.com/PaolaGaray">
         <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt="Python Badge">
