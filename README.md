@@ -1,11 +1,6 @@
 <h1>Hi there 👋🏽</h1>
 <h2>🍦👩🏽‍💻  Data Analyst | Product Leader </h2>
-<hr>
-<p>
-Product Analyst, proficient in reformulating problem statements, cleaning and transforming data, identifying relationships, defining success metrics, and achieving stakeholder agreement. Check out my latest projects here!
-</p>
-<h3>Skills:</h3>
-<p>
+
 <!-- Line 1: Python, Pandas, Scikit-Learn, NumPy -->
 <p>
     <a href="https://github.com/PaolaGaray">
