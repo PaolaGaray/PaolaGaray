@@ -1,6 +1,3 @@
-
-<p>
-
 <!-- Line 1: Python, Pandas, Scikit-Learn, NumPy -->
 <p>
     <h3>Skills:</h3>
