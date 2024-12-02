@@ -36,7 +36,7 @@ Product Analyst, proficient in reformulating problem statements, cleaning and tr
         <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub Badge">
     </a>
 </p>
-
+<!--
 <hr>
 <h3>Codewards:</h3>
-<a href="https://www.codewars.com/users/PaolaGaray/badges/large"><img src="https://www.codewars.com/users/PaolaGaray/badges/large" /></a> 
+<a href="https://www.codewars.com/users/PaolaGaray/badges/large"><img src="https://www.codewars.com/users/PaolaGaray/badges/large" /></a> -->
