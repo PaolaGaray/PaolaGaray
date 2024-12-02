@@ -1,5 +1,5 @@
-<h1>Hi there 👋🏽</h1>
-<h2>🍦👩🏽‍💻  Data Analyst | Product Leader </h2>
+<h3>Skills:</h3>
+<p>
 
 <!-- Line 1: Python, Pandas, Scikit-Learn, NumPy -->
 <p>
