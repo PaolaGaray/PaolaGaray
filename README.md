@@ -1,8 +1,9 @@
-<h3>Skills:</h3>
+
 <p>
 
 <!-- Line 1: Python, Pandas, Scikit-Learn, NumPy -->
 <p>
+    <h3>Skills:</h3>
     <a href="https://github.com/PaolaGaray">
         <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt="Python Badge">
     </a>
